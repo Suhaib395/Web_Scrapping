@@ -1,0 +1,38 @@
+[
+    {
+        "name": "suhaib",
+        "age": 23,
+        "degree": [
+            {
+                "name": "class 10",
+                "per": "90%"
+            },
+            {
+                "name": "class 12",
+                "per": "95%"
+            },
+            {
+                "name": "graduate",
+                "per": "89%"
+            }
+        ]
+    },
+    {
+        "name": "janwar",
+        "age": 1800,
+        "degree": [
+            {
+                "name": "class 10",
+                "per": "10%"
+            },
+            {
+                "name": "class 12",
+                "per": "15%"
+            },
+            {
+                "name": "graduate",
+                "per": "19%"
+            }
+        ]
+    }
+]
